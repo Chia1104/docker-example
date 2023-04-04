@@ -27,3 +27,7 @@ docker build -f ./multi-stage/next-example/multi-stage.dockerfile -t multi-stage
 ```
 
 ![size](./multi-stage/size.png)
+
+## Example of Docker with arguments and environment variables
+
+WIP
